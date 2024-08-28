@@ -44,14 +44,7 @@ export default function RootLayout({
                   Perception
                 </Link>
 
-                <a
-                  href="https://github.com/ashutosh-rath02/perception"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="bg-transparent border-2 hover:bg-gray-100 px-4 py-2 rounded-md text-sm sm:text-base"
-                >
-                  ⭐ Star on GitHub
-                </a>
+                
               </div>
             </div>
 
