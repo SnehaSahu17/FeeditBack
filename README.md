@@ -1,4 +1,4 @@
-# Perception
+# FeeditBack
 
 This project is a real-time feedback system that allows users to join rooms, submit feedback, and see real-time updates using Socket.IO. The system consists of two main parts: the client application and the server application.
 
