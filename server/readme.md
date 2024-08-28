@@ -82,10 +82,4 @@ yarn start
 - `room-update`: Receive updates for a specific room.
 - `disconnect`: Handle client disconnection.
 
-### Contributing
 
-Feel free to submit issues and pull requests.
-
-### License
-
-This project is licensed under the MIT License.
